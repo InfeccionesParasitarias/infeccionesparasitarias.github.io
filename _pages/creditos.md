@@ -4,6 +4,6 @@ layout: post
 permalink: /creditos/
 ---
 
-* Juan Valentina Cifuentes
+* Juana Valentina Cifuentes
 * Juan Sebastian Molina
 * Ana Maria Murillo
